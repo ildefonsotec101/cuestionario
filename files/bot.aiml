@@ -1,0 +1,27 @@
+<!-- chatbot.aiml -->
+<aiml>
+  <category>
+    <pattern>Es la unidad basica</pattern>
+    <template>la neurona.</template>
+  </category>
+
+  <category>
+    <pattern>es la suma de las entradas por los pesos</pattern>
+    <template>es el perceptron.</template>
+  </category>
+
+  <category>
+    <pattern>es la primer funcion de activacion</pattern>
+    <template>la funcion sigmoide.</template>
+  </category>
+
+  <category>
+    <pattern>esta formada por nodos y copas</pattern>
+    <template>Es una red neuronal.</template>
+  </category>
+
+  <category>
+    <pattern>error</pattern>
+    <template>uy no mi chavo</template>
+  </category>
+</aiml>

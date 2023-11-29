@@ -1,0 +1,23 @@
+<!-- chatbot.aiml -->
+<aiml>
+  <category>
+    <pattern>Es una IPv4</pattern>
+    <template>Tiene 32 bits.</template>
+  </category>
+
+  <category>
+    <pattern>Es una IPv6</pattern>
+    <template>Tiene 128 bits.</template>
+  </category>
+
+  <category>
+    <pattern>Esta en formato hexadecimal</pattern>
+    <template>Es una IPv6.</template>
+  </category>
+
+  <category>
+    <pattern>Esta en formato decimal punteado</pattern>
+    <template>Es una IPv4.</template>
+  </category>
+
+</aiml>
