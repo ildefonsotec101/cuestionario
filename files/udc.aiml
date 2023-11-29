@@ -1,53 +1,54 @@
-<aiml version="1.0.1" encoding="UTF-8">
+<?xml version="1.0.1" encoding="UTF-8">
   <aiml>
     <category>
       <pattern>Hola</pattern>
-      <template>Hola!.</template>
+      <template>Hola!</template>
     </category>
 
     <category>
-      <pattern>¿Quien es el actual goleador de la Eredivise?</pattern>
-      <template>Santiago Gimenez.</template>
+      <pattern>Quien es el actual goleador de la Eredivise</pattern>
+      <template>Santiago Gimenez</template>
     </category>
 
     <category>
       <pattern>Dime 3 marcas de celulares</pattern>
-      <template>Xiaomi, Google Pixel y Nokia.</template>
+      <template>Xiaomi, Google Pixel y Nokia</template>
     </category>
 
     <category>
-      <pattern>¿Cuantas casillas tiene un tablero de ajedrez?</pattern>
-      <template>Tiene 64 casillas.</template>
+      <pattern>Cuantas casillas tiene un tablero de ajedrez</pattern>
+      <template>Tiene 64 casillas</template>
     </category>
 
     <category>
-      <pattern>¿Cuantos peones hay al inicio de la partida?</pattern>
-      <template>Hay 16, 8 blancos y 8 peones negros.</template>
+      <pattern>Cuantos peones hay al inicio de la partida</pattern>
+      <template>Hay 16, 8 blancos y 8 peones negros</template>
     </category>
 
     <category>
-      <pattern>¿De que formas se puede ganar una partida de ajedrez?</pattern>
-      <template>Por jaque mate, jugadas ilegales, caida de bandera o que el rival no se presente.</template>
+      <pattern>De que formas se puede ganar una partida de ajedrez</pattern>
+      <template>Por jaque mate, jugadas ilegales, caida de bandera o que el rival no se presente</template>
     </category>
 
     <category>
-      <pattern>Menciona tres campeones mundiales de ajedrez.</pattern>
-      <template>Gary Kasparov, Magnus Carlsen y Jose Raul Capablanca.</template>
+      <pattern>Menciona tres campeones mundiales de ajedrez</pattern>
+      <template>Gary Kasparov, Magnus Carlsen y Jose Raul Capablanca</template>
     </category>
 
     <category>
-      <pattern>¿Cual es el valor de una torre en el ajedrez?</pattern>
-      <template>Tiene un valor de 5 peones.</template>
+      <pattern>Cual es el valor de una torre en el ajedrez</pattern>
+      <template>Tiene un valor de 5 peones</template>
     </category>
 
     <category>
-      <pattern>¿Cuales son los movimientos especiles en el ajedrez?</pattern>
-      <template>La captura al paso, la coronacion y el enroque.</template>
+      <pattern>Cuales son los movimientos especiles en el ajedrez</pattern>
+      <template>La captura al paso, la coronacion y el enroque</template>
     </category>
 
     <category>
-      <pattern>¿Quien invento el ajedrez 960?</pattern>
-      <template>Robert James Fischer.</template>
+      <pattern>Quien invento el ajedrez 960</pattern>
+      <template>Robert James Fischer</template>
     </category>
   </aiml>
-</aiml>
+</xml>
+
